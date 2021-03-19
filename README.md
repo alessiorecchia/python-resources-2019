@@ -1,5 +1,5 @@
 # Python-Resources-2019
-Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
+Updated 03/19/21 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
 ### Books
@@ -25,6 +25,8 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 ### Classes
 
 * [_JetBrains Academy_](https://www.jetbrains.com/academy/)  Free trial on JetBrains Academy. If you are looking for a complete course start here, the Python track. "It's a one-stop shop for reading about concepts, practicing them and then immediately applying them in projects. An all-in-one learning tool."
+
+* The classes we took in Strive
 
 ### Coding Challenges
 
@@ -123,6 +125,8 @@ services offering free tiers, but it can be hard to find them all to make inform
 * [_Github Profile Readme Templates_](https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates) A curated list of awesome Github Profile Readme Templates.
 
 * [_Learn Git Branching_](https://learngitbranching.js.org/)
+
+* The class this morning
 
 ### GUI related
 
@@ -321,3 +325,5 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+* Some exercises I did in the past
